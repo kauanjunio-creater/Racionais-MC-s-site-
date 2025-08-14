@@ -10,7 +10,7 @@
 
   --alto-contraste-fundo: #000;
   --alto-contraste-texto: #fff;
-  --alto-contraste-link: #ffd700;
+  --alto-contraste-link: #ff0000;
 
   --escuro-fundo: #121212;
   --escuro-texto: #e0e0e0;
@@ -175,3 +175,4 @@ h2 {
 audio {
   width: 100%;
 }
+
